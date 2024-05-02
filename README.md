@@ -1,7 +1,7 @@
 <h1 align="center">ECEformer</h1>
 <h5 align="center">Transformer-based Reasoning for Learning Evolutionary Chain of Events on Temporal Knowledge Graph</h5>
 
-ECEformer is a novel Transformer-based reasoning model for TKG to learn the Evolutionary Chain of Events. It will appear in SIGIR 2024 ([arXiv version](https://arxiv.org/abs/2008.12813)).
+ECEformer is a novel Transformer-based reasoning model for TKG to learn the Evolutionary Chain of Events. It will appear in SIGIR 2024 ([arXiv version](https://arxiv.org/abs/2405.00352)).
 
 ## Installation
 
