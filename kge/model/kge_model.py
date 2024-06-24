@@ -312,7 +312,7 @@ class KgeModel(KgeBase):
                 config,
                 dataset,
                 self.configuration_key + ".time_embedder",
-                dataset.num_entities(),
+                dataset.num_times(),
             )
 
             #: Embedder used for relations
