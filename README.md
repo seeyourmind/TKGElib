@@ -17,7 +17,7 @@ pip install -e .
 
 ### Data
 
-First download the standard benchmark datasets. The Data folder can be downloaded from [GDELT & ICEWS14/05-15](https://github.com/BorealisAI/de-simple/tree/master/datasets), [ICEWS18](), [YAGO11k & WikiData12k](https://drive.google.com/open?id=1S0dcMDXVZp8CFSCMojkBQI1gCva8Dm-0). Then process the dataset using the commands below.
+First download the standard benchmark datasets. The Data folder can be downloaded from [GDELT & ICEWS14/05-15](https://github.com/BorealisAI/de-simple/tree/master/datasets), [ICEWS18](https://github.com/TemporalKGTeam/xERTE/tree/main/tKGR/data/ICEWS18_forecasting), [YAGO11k & WikiData12k](https://drive.google.com/open?id=1S0dcMDXVZp8CFSCMojkBQI1gCva8Dm-0). Then process the dataset using the commands below.
 
 ```sh
 cd data
